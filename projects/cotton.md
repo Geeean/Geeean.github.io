@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/SCEL/SCEL.png
 title: "Cotton"
-date: 2014
+date: 2022
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game I developed for ICS 313."
+summary: "he Smart Campus Energy Lab at UH Manoa is a student-led lab that strives to be a welcoming and open place of learning for undergraduate and graduate students alike, fostering and developing technical skills such as software engineering, circuit design and machine learning. In addition to technical skills, SCEL also focuses on developing “soft” skills such as communication, teamwork, project management and leadership. "
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/SCEL/cotton-header.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
