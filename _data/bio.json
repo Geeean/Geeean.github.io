@@ -2,16 +2,15 @@
   "basics": {
     "name": "Giancarlo Portillo",
     "label": "Student",
-    "picture": "https://github.com/geeean.png",
+    "picture": "image/headshot.jpg",
     "email": "gtp@hawaii.edu",
     "phone": "808-670-5595",
     "website": "https://geeean.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "91-6621 Kapolei Parkway", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "geeean", "url": "http://github.com/geeean" },
       { "network": "linkedin", "username": "geean", "url": "https://www.linkedin.com/in/giancarlo-portillo-a5082a1b4/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "mahalogian", "url": "http://instagram.com/mahalogian" }
     ]
   },
@@ -24,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Javascript", "Ladder Logic" ]
+      "keywords": [ "C", "C++", "Python", "Javascript", "Ladder Logic", "Django", "Heroku" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows", "Linux/Ubuntu", "VSCode" ]
     }
   ],
   "education": [
@@ -71,16 +70,14 @@
     },
     {
       "organization": "Microrobots",
-      "website": "https://wiki.scel-hawaii.org/doku.php?id=start",
-      "position": "Software Developer",
-      "startDate": "2022-08",
-      "endDate": "Present",
-      "Overall Goal": " Design and deploy an environmental sensor network across the Manoa campus to collect meteorological data and assist in photovoltaic power forecasting",
+      "website": "https://manoa.hawaii.edu/uh-vip/project/micro-vip/",
+      "position": "Automated Control Systems Team",
+      "startDate": "2020-08",
+      "endDate": "2020-12",
+      "Overall Goal": " Analyze embryos from a clinical engineering viewpoint to determine the optimal characteristics for healthy implantation",
       "Individual Responsibilties": [
-       " Implement new software features and debug existing source code for sensor modules using C/C++",
-        "Developed staging environment in Linux for sensor module testing",
-        "Use Unix command line tools to test sensor module interactions with lab gateway",
-        "Perform version control using Git and GitHub" ]
+        "Integrate object detection code in Python to aid in tracking of microscale objects",
+        "Develop graphical user interface (GUI) to allow visualization of microrobot movement using Python" ]
     }
     ],
   "awards": [
@@ -90,12 +87,6 @@
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {

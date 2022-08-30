@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/SCEL/SCEL.png
-title: "Cotton"
+image: img/SCEL/scel.png
+title: "SCEL"
 date: 2022
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "he Smart Campus Energy Lab at UH Manoa is a student-led lab that strives to be a welcoming and open place of learning for undergraduate and graduate students alike, fostering and developing technical skills such as software engineering, circuit design and machine learning. In addition to technical skills, SCEL also focuses on developing “soft” skills such as communication, teamwork, project management and leadership. "
+  - Renewable Energy
+  - Hardware
+summary: "The Smart Campus Energy Lab at UH Manoa is a student-led lab that strives to be a welcoming and open place of learning for undergraduate and graduate students alike, fostering and developing technical skills such as software engineering, circuit design and machine learning. In addition to technical skills, SCEL also focuses on developing “soft” skills such as communication, teamwork, project management and leadership. "
 ---
 
 <img class="img-fluid" src="../img/SCEL/cotton-header.png">
