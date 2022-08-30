@@ -16,11 +16,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "IoT" },
+    { "name": "Software Engineering" },
+    { "name": "Cyber Security" },
+    { "name": "Renewable Energy" },
   ],
   "skills": [
     {
@@ -35,37 +34,25 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2022)",
+      "area": "Computer Engineering (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": "EE 160, EE 205, EE 367, EE 368, EE 496, EE 468"[
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "West Yost",
+      "position": "Operations, Technology, Cyber Security, Resilience  ",
+      "website": "https://www.westyost.com/operational-technology-cybersecurity-and-resilience/",
+      "startDate": "2022-06-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "OTCR Intern",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked on PLCs for BWS water pumps,
+        "On site visits to inspect the water pumps and the facilities housing them"
       ]
     }
   ],
