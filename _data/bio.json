@@ -19,7 +19,7 @@
     { "name": "IoT" },
     { "name": "Software Engineering" },
     { "name": "Cyber Security" },
-    { "name": "Renewable Energy" },
+    { "name": "Renewable Energy" }
   ],
   "skills": [
     {
@@ -38,8 +38,7 @@
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "courses": "EE 160, EE 205, EE 367, EE 368, EE 496, EE 468"[
-      ]
+      "courses": ["EE 160", "EE 205", "EE 367", "EE 368", "EE 496", "EE 468"]
     }
   ],
   "work": [
@@ -51,7 +50,7 @@
       "endDate": "Present",
       "summary": "OTCR Intern",
       "highlights": [
-        "Worked on PLCs for BWS water pumps,"
+        "Worked on PLCs for BWS water pumps",  
         "On site visits to inspect the water pumps and the facilities housing them"
       ]
     }
@@ -68,7 +67,8 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
+    ],
   "awards": [
     {
       "title": "B+ Scholarship",
