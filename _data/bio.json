@@ -37,8 +37,7 @@
       "area": "Computer Engineering (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
-      "courses": ["EE 160", "EE 205", "EE 367", "EE 368", "EE 496", "EE 468"]
+      "endDate": "Present"
     }
   ],
   "work": [
@@ -55,18 +54,33 @@
       ]
     }
   ],
-  "volunteer": [
+  "Projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Smart Campus Energy Lab",
+      "website": "https://wiki.scel-hawaii.org/doku.php?id=start",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2022-08",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "Overall Goal": " Design and deploy an environmental sensor network across the Manoa campus to collect meteorological data and assist in photovoltaic power forecasting",
+      "Individual Responsibilties": [
+       " Implement new software features and debug existing source code for sensor modules using C/C++",
+        "Developed staging environment in Linux for sensor module testing",
+        "Use Unix command line tools to test sensor module interactions with lab gateway",
+        "Perform version control using Git and GitHub"
       ]
+    },
+    {
+      "organization": "Microrobots",
+      "website": "https://wiki.scel-hawaii.org/doku.php?id=start",
+      "position": "Software Developer",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "Overall Goal": " Design and deploy an environmental sensor network across the Manoa campus to collect meteorological data and assist in photovoltaic power forecasting",
+      "Individual Responsibilties": [
+       " Implement new software features and debug existing source code for sensor modules using C/C++",
+        "Developed staging environment in Linux for sensor module testing",
+        "Use Unix command line tools to test sensor module interactions with lab gateway",
+        "Perform version control using Git and GitHub" ]
     }
     ],
   "awards": [
