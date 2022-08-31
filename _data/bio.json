@@ -18,7 +18,8 @@
     { "name": "IoT" },
     { "name": "Software Engineering" },
     { "name": "Cyber Security" },
-    { "name": "Renewable Energy" }
+    { "name": "Renewable Energy" },
+    { "name": "Web Development" }
   ],
   "skills": [
     {

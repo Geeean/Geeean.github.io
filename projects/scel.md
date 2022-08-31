@@ -11,7 +11,10 @@ labels:
 summary: "The Smart Campus Energy Lab at UH Manoa is a student-led lab that strives to be a welcoming and open place of learning for undergraduate and graduate students alike, fostering and developing technical skills such as software engineering, circuit design and machine learning. In addition to technical skills, SCEL also focuses on developing “soft” skills such as communication, teamwork, project management and leadership. "
 ---
 
-<img class="img-fluid" src="../img/SCEL/cotton-header.png">
+<div class="text-center p-4">
+  <img width="200px" src="../img/SCEL/blockdiagram.png" class="img-thumbnail" >
+  <img width="200px" src="../img/SCEL/softwareblock.png" class="img-thumbnail" >
+</div>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
