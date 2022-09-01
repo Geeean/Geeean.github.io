@@ -24,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Javascript", "Ladder Logic", "Django", "Heroku" ]
+      "keywords": [ "C", "C++", "Python", "JavaScript", "Bootstrap", "Django", "Heroku" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows", "Linux/Ubuntu", "VSCode" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows", "Linux/Ubuntu", "VSCode", "Arduino", "RaspberryPi" ]
     }
   ],
   "education": [
@@ -49,8 +49,10 @@
       "endDate": "Present",
       "summary": "OTCR Intern",
       "highlights": [
-        "Worked on PLCs for BWS water pumps",  
-        "On site visits to inspect the water pumps and the facilities housing them"
+        "Visited Wai’alae Iki Booster station pump 1-5 to conduct site visits, inspecting control systems, wiring and water pumps.",
+      	"Work on implementing alarm and message code on PLCs using RSLogix for the Oahu Board of Water Supply.",
+        "Underwent training to program PLC's using RSLogix 5000 and HMI using Ignition"
+        
       ]
     }
   ],
