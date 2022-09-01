@@ -16,8 +16,8 @@ summary: "The Smart Campus Energy Lab at UH Manoa is a student-led lab that stri
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/SCEL/blockdiagram.png" class="img-thumbnail" >
-  <img width="200px" src="../img/SCEL/softwareblock.png" class="img-thumbnail" >
+  <img width="500px" src="../img/SCEL/blockdiagram.png" class="img-thumbnail" >
+  <img width="500px" src="../img/SCEL/softwareblock.png" class="img-thumbnail" >
 </div>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
