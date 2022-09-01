@@ -55,7 +55,7 @@
       ]
     }
   ],
-  "Projects": [
+  "projects": [
     {
       "organization": "Smart Campus Energy Lab",
       "website": "https://wiki.scel-hawaii.org/doku.php?id=start",
