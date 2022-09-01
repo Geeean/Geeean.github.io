@@ -10,8 +10,7 @@
     "location": { "address": "91-6621 Kapolei Parkway", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "geeean", "url": "http://github.com/geeean" },
-      { "network": "linkedin", "username": "geean", "url": "https://www.linkedin.com/in/giancarlo-portillo-a5082a1b4/" },
-      { "network": "instagram", "username": "mahalogian", "url": "http://instagram.com/mahalogian" }
+      { "network": "linkedin", "username": "geean", "url": "https://www.linkedin.com/in/giancarlo-portillo-a5082a1b4/" }
     ]
   },
   "interests": [
