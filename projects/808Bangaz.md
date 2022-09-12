@@ -15,6 +15,10 @@ labels:
 summary: "A websites where users can post messages on a fourm board, upvote, delete, and make new accounts"
 ---
 
+<img width = "600px" src = "../img/808bangaz/808bangazmain.png" class = "img-thumbnail"> 
+<br>
+<br>
+<img width = "600px" src = "../img/808bangaz/808bangazpost.png" class = "img-thumbnail">
 
 This project was conducted in EE491F Data Driven Web Development in the summer of 2022.
 My team members were tasked in making a website that utulizes CURD techniques and that is accessible on the internet.
@@ -24,8 +28,6 @@ My team members were tasked in making a website that utulizes CURD techniques an
 My team members and I were inspired to make a fourm posting website because of Reddit. Reddit is a network of communites where people can talk
 about their hobbies, interests, and passion. Reddit basically almosts has a community for anything, wether it be sharing dog/cat videos, college advice, work advice, or even politics.
 
-<img src = "../img/808bangaz/808bangazmain.png"> 
-<img src = "../img/808bangaz/808bangazpost.png">
 
 <h2> My responsibilities </h2>
 
