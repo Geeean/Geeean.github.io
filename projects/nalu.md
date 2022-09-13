@@ -14,6 +14,10 @@ labels:
 summary: "An IoT device for displaying Beach Conditions."
 ---
 
+<p align = "center">
+  <img width="700px" src="../img/NALU/naluheader.png" class="img-thumbnail" >
+</p>
+
 NALU is a project for EE368 Cyber-Physical Systems. My team members and I were tasked with developing an IoT device that would utulize a web API along with a raspberry pu and sensor kit. After a long and difficult brainstorming session we came to a decision make a product around. 
 
 
