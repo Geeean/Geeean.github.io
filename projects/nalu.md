@@ -7,10 +7,11 @@ date: 2015
 published: true
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - NodeRed JavaScript
+  - Raspberry Pi
+  - Iot
+  - Sensor
+summary: "An IoT device for displaying Beach Conditions."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

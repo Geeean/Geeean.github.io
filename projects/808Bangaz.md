@@ -15,8 +15,8 @@ labels:
 summary: "A websites where users can post messages on a fourm board, upvote, delete, and make new accounts"
 ---
 <div class="text-center p-4">
-  <img width = "600px" src = "../img/808bangaz/808bangazmain.png" class = "img-thumbnail"> 
-  <img width = "600px" src = "../img/808bangaz/808bangazpost.png" class = "img-thumbnail">
+  <img width="600px" src="../img/808bangaz/808bangazmain.png" class="img-thumbnail" >
+  <img width="600px" src="../img/808bangaz/808bangazpost.png" class="img-thumbnail" >
 </div>
 This project was conducted in EE491F Data Driven Web Development in the summer of 2022.
 My team members were tasked in making a website that utulizes CURD techniques and that is accessible on the internet.
