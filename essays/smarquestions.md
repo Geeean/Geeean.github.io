@@ -67,6 +67,7 @@ item #3 = 45
 <br>
 This question is very simple, but informative. Here the user was very specific in the title, only asking one question. The writer of the question also wrote his code within the forum post, instead of posting a picture. Having the code written within the forum post is extremely helpful because this allows the other users to just copy and paste that code and test it. Especially when there are almost 100 lines of code.
 <br>
+<br>
 <h2> Example of a Bad Question: </h2>
 <a href = "https://stackoverflow.com/questions/73654192/webpage-disappear-when-i-add-user-userreducer-in-my-store-js-file"> Webpage disappear when i add user: userReducer, in my store.js file </a>
 
