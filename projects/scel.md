@@ -19,7 +19,7 @@ summary: "The Smart Campus Energy Lab at UH Manoa is a student-led lab that stri
   <img width="500px" src="../img/SCEL/blockdiagram.png" class="img-thumbnail" >
   <img width="500px" src="../img/SCEL/softwareblock.png" class="img-thumbnail" >
 </div>
-  I joined SCEL 
+
 
 
 <hr>
