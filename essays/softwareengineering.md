@@ -9,13 +9,13 @@ labels:
   - Software Engineering
 ---
 
-<h2> The shift in gears </h2>
+<h2> The start of something new, it feels so right to be a software engineer </h2>
 <br>
 After highschool I did not expect myself to be so interested in software engineering. At the start of my college career I wanted to become an electrical engineer. I was always so facinated by circuit design and was inspired by my father who himself is an electrical engineer. My interests shifted around my sophmore year of college. I was browsing youtube and came across a youtuber named Michael Reeves. Michael Reeves made videos relating to software engineering and programming, creating fun and entertaining projects. Such projects as "Hacking Drones with a childs toy", "Scream Powered Microwave", and my favorite "Using a hacked bopit to fix Hawaiis Missle System". His videos showed me how fun and interesting software engineering could be and I made the switch to become a computer engineer at the start of the next semester.
 <br>
-<a align = "center">
+<p align = "center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/W5Dpjvbi7ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</a>
+</p>
 <br>
 <h2> My current interests in Software Engineering </h2>
 As of right now I am really interested in building and designing websites. During the summer I took a web design course and honestly I had a blast doing all the projects and homeworks, I would spend an embrassing amount of time on some of them just to have fun. Currently I am interested in becoming a front end web developer because that was what I found most the fun.
