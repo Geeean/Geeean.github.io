@@ -42,7 +42,7 @@ In order to write smart questions, you must know the following.
 </ol>  
 
 <h2> Example of a Good Question: </h2>
-<a href = "https://stackoverflow.com/questions/522563/accessing-the-index-in-for-loops"> Accessing the index in 'for' loops </h4>
+<a href = "https://stackoverflow.com/questions/522563/accessing-the-index-in-for-loops"> Accessing the index in 'for' loops </a>
 
 How do I access the index while iterating over a sequence with a for loop?
 <code>
@@ -61,12 +61,12 @@ item #3 = 45
 This question is very simple, but informative. Here the user was very specific in the title, only asking one question. The writer of the question also wrote his code within the forum post, instead of posting a picture. Having the code written within the forum post is extremely helpful because this allows the other users to just copy and paste that code and test it. Especially when there are almost 100 lines of code.
 
 <h2> Example of a Bad Question: </h2>
-<a href = "https://stackoverflow.com/questions/73654192/webpage-disappear-when-i-add-user-userreducer-in-my-store-js-file"> Webpage disappear when i add user: userReducer, in my store.js file </h4>
+<a href = "https://stackoverflow.com/questions/73654192/webpage-disappear-when-i-add-user-userreducer-in-my-store-js-file"> Webpage disappear when i add user: userReducer, in my store.js file </a>
 
 <div align = "center">
-  <img width="600px" src="../img/smartquestions/trash1.png" class="img-thumbnail" >
-  <img width="600px" src="../img/smartquestions/trash2.png" class="img-thumbnail" >
-  <img width="600px" src="../img/smartquestions/trash3.png" class="img-thumbnail" >
+  <img width="300px" src="../img/smartquestions/trash1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/smartquestions/trash2.png" class="img-thumbnail" >
+  <img width="300px" src="../img/smartquestions/trash3.png" class="img-thumbnail" >
 </div>
 <br>
 As, products: productReducer, productDetails:productDetailReducer, was working perfectly fine but when I add user:userReducer Screen disappeared.
