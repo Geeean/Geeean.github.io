@@ -39,7 +39,8 @@ In order to write smart questions, you must know the following.
     <ul style = "margin-left: -2em">
     <li>no one is going to help you if you are just going to put pictures of your code. it will make their life easier if they could just copy and paste it</li>
     </ul>
-  
+
+<br>  
 
 <h2> Example of a Good Question: </h2>
 <a href = "https://stackoverflow.com/questions/522563/accessing-the-index-in-for-loops"> Accessing the index in 'for' loops </a>
@@ -76,5 +77,6 @@ This question is very simple, but informative. Here the user was very specific i
 </div>
 <br>
 As, products: productReducer, productDetails:productDetailReducer, was working perfectly fine but when I add user:userReducer Screen disappeared.
+<br>
 <br>
 This question is a prime example of a bad question. First off the title isn't very helpful at all, it isn't even asking a question. It's just a description of their problem. Second, the user did not even write the code in the forum post, he just linked three pictures to an image hosting website. Not to mention the description of the problem is just straight nonsense. There's a reason why the post is already closed with only one response.
