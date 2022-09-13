@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
+image: img/NALU/naluheader.png
+title: "NALU"
 date: 2015
 published: true
 labels:

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/808bangaz/komikem.png
 title: "808Bangaz Blog Posting Website"
 date: 2022
 published: true
@@ -16,8 +16,6 @@ summary: "A websites where users can post messages on a fourm board, upvote, del
 ---
 <div class="text-center p-4">
   <img width = "600px" src = "../img/808bangaz/808bangazmain.png" class = "img-thumbnail"> 
-  <br>
-  <br>
   <img width = "600px" src = "../img/808bangaz/808bangazpost.png" class = "img-thumbnail">
 </div>
 This project was conducted in EE491F Data Driven Web Development in the summer of 2022.
@@ -34,4 +32,6 @@ about their hobbies, interests, and passion. Reddit basically almosts has a comm
 My responsibilities with in the project were to create a working NavBar, like/dislike system, and the whole website layout.
 Below is a video explaing all the features within the website.
 
-<iframe class = "text-center p-4" width="560" height="315" src="https://www.youtube.com/embed/FfZlbhwb9ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align = "center"> 
+  <iframe class = "text-center p-4" width="560" height="315" src="https://www.youtube.com/embed/FfZlbhwb9ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
