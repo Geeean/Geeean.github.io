@@ -59,7 +59,8 @@ I was apart of the Firmware team which focuses on maintaining the code for the w
   <p align = "center>
     <img width="600px" src="../img/SCEL/scelgroup.png" class="img-thumbnail" >
   </p>
-
+  
+<br>
 <h2> My Takebacks </h2>
 
 While being in SCEL and the Firmware team, I leanred a lot of skills that will assist me in my professional career. Such as version control using Git and GitHub and communicating and working as a team. I also learned how the sensors on the weatherboxes communicate and send data to the gateway server using gateways. 
