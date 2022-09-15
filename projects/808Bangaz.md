@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/808bangaz/komikem.png
+image: width = "600px" "img/808bangaz/komikem.png"
 title: "808Bangaz Blog Posting Website"
 date: 2022
 published: true
