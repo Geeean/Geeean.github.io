@@ -47,7 +47,7 @@ UH Manoa aligned themselves with the state of Hawai'is energy goals so that mean
 
 <br>
 
-<h2> My Respnsibilties </h2>
+<h2> Our Objective </h2>
 
 SCEL focused on designing, fabricating, and deploying a network of sensor modules across the universities campuses to collect meterological data. We would collect and analyze temperature, solar irradiance, humidity, and pressure.
 <br>
@@ -56,12 +56,16 @@ There were four different teams within SCEL. Apple and Guava were the hardware t
 I was apart of the Firmware team which focuses on maintaining the code for the weatherboxes and implementing improvements for gatherdata. While I apart of the Firmware team we created a staging envrioment. The staging enviroment provided hardware teams a proper way to see if their weatherboxes worked without destroying the production line. We also converted our gateway server code from Python2 to Python3. We were also responsible in assisting hardware teams with anything related to the weatherbox code, gathering data, or testing issues.
 <br>
 
+  <p align = "center>
+    <img width="600px" src="../img/SCEL/scelgroup.png" class="img-thumbnail" >
+  </p>
+
 <h2> My Takebacks </h2>
 
 While being in SCEL and the Firmware team, I leanred a lot of skills that will assist me in my professional career. Such as version control using Git and GitHub and communicating and working as a team. I also learned how the sensors on the weatherboxes communicate and send data to the gateway server using gateways. 
 <br>
 I am forever greatful for SCEL because it was such a great experience. Not only did it educate me about renewable energy and how data gets collected and stored, but I was able to meet amazing people through this lab who I can call great friends.
-
+<br>
 For those interested heres a link to the <a href = "https://wiki.scel-hawaii.org/doku.php?id=start"> SCEL Wiki </a>
 
 
