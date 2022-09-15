@@ -56,10 +56,10 @@ There were four different teams within SCEL. Apple and Guava were the hardware t
 I was apart of the Firmware team which focuses on maintaining the code for the weatherboxes and implementing improvements for gatherdata. While I apart of the Firmware team we created a staging envrioment. The staging enviroment provided hardware teams a proper way to see if their weatherboxes worked without destroying the production line. We also converted our gateway server code from Python2 to Python3. We were also responsible in assisting hardware teams with anything related to the weatherbox code, gathering data, or testing issues.
 <br>
 
-  <p align = "center>
+  <p align = "center">
     <img width="600px" src="../img/SCEL/scelgroup.png" class="img-thumbnail" >
   </p>
-  
+
 <br>
 <h2> My Takebacks </h2>
 
