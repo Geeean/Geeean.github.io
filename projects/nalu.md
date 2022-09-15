@@ -11,7 +11,7 @@ labels:
   - Raspberry Pi
   - Iot
   - Sensor
-summary: "An IoT device for displaying Beach Conditions."
+summary: "Project for EE368: An IoT device for displaying Beach Conditions."
 ---
 
 <p align = "center">

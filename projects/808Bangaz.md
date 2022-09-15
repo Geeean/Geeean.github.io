@@ -12,7 +12,7 @@ labels:
   - Bootstrap
   - Heroku
   - Django
-summary: "A websites where users can post messages on a fourm board, upvote, delete, and make new accounts"
+summary: "Project for EE491F: A websites where users can post messages on a fourm board, upvote, delete, and make new accounts"
 ---
 <div class="text-center p-4">
   <img width="600px" src="../img/808bangaz/808bangazmain.png" class="img-thumbnail" >
