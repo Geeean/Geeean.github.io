@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/NALU/naluheader.png
+image: img/NALU/projectpic.png
 title: "NALU"
 date: 2022
 published: true
