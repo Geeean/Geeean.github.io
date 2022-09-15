@@ -65,7 +65,9 @@ I was apart of the Firmware team which focuses on maintaining the code for the w
 
 While being in SCEL and the Firmware team, I leanred a lot of skills that will assist me in my professional career. Such as version control using Git and GitHub and communicating and working as a team. I also learned how the sensors on the weatherboxes communicate and send data to the gateway server using gateways. 
 <br>
+<br>
 I am forever greatful for SCEL because it was such a great experience. Not only did it educate me about renewable energy and how data gets collected and stored, but I was able to meet amazing people through this lab who I can call great friends.
+<br>
 <br>
 For those interested heres a link to the <a href = "https://wiki.scel-hawaii.org/doku.php?id=start"> SCEL Wiki </a>
 
