@@ -12,7 +12,7 @@ labels:
   - Arduino
   - C/C++
   - Python
-summary: "The Smart Campus Energy Lab at UH Manoa is a student-led lab that strives to be a welcoming and open place of learning for undergraduate and graduate students alike, fostering and developing technical skills such as software engineering, circuit design and machine learning. In addition to technical skills, SCEL also focuses on developing “soft” skills such as communication, teamwork, project management and leadership. "
+summary: "Capstone Project for EE396,496: The Smart Campus Energy Lab at UH Manoa is a student-led lab that strives to be a welcoming and open place of learning for undergraduate and graduate students alike, fostering and developing technical skills such as software engineering, circuit design and machine learning. In addition to technical skills, SCEL also focuses on developing “soft” skills such as communication, teamwork, project management and leadership. "
 ---
 
 <div class="text-center p-4">
