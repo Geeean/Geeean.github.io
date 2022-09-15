@@ -57,7 +57,7 @@ I was apart of the Firmware team which focuses on maintaining the code for the w
 <br>
 
   <p align = "center">
-    <img width="600px" src="../img/SCEL/scelgroup.png" class="img-thumbnail" >
+    <img width="700px" src="../img/SCEL/scelgroup.png" class="img-thumbnail" >
   </p>
 
 <br>
