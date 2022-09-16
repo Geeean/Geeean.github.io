@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "img/808bangaz/kemkomi.png"
+image: img/808bangaz/komikomi.jpg
 title: "808Bangaz Blog Posting Website"
 date: 2022
 published: true
