@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/NALU/beachpic.jpg
+image: img/NALU/beachnew.jpg
 title: "NALU"
 date: 2022
 published: true
