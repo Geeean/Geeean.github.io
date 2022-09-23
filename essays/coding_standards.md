@@ -9,8 +9,6 @@ labels:
   - coding standards
 --- 
 <h3> What exacly are coding standards </h3>
-<br>
-
 Coding standards are like a set of rules, techniques, and practicies to creater cleaner and more readable code. This standard allows software engineers to build and maintain highly functional code. Everyone has their own way of writing code so that means each industry has their own specific coding standards, but there are universal standards that all must follow.
 
 
