@@ -12,9 +12,9 @@ labels:
 Coding standards are like a set of rules, techniques, and practices to create cleaner and more readable code. This standard allows software engineers to build and maintain highly functional code. Everyone has their own way of writing code so that means each industry has their own specific coding standards, but there are universal standards that all must follow.
 
 
-
 <h4> Focus on code readability </h4>
 Readable code has got to be one of the most important standards, because if your code isn't readable then no one is going to understand what you’re trying to do. To have readable code you must do some of the following:
+<br>
 <img src= "https://i.redd.it/x8uo12u4wa351.jpg" class="img-thumbnail" width="400px" style="float:right">
 <ol>
     <li> Write as few lines as possible. </li>
