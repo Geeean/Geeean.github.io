@@ -26,8 +26,6 @@ Readable code has got to be one of the most imporant standards, because if your 
 
 <br>
 <h4> Standardize headers for different modules </h4>
-
-<br>
 It makes it easier to understand and maintain code headers of different files, each header should have:
 <br>
 <ol>
