@@ -22,7 +22,7 @@ Readable code has got to be one of the most important standards, because if your
 </ol>
 <br>
 <p align = "center">
-<img  width = "600px" src = "https://i.redd.it/x8uo12u4wa351.jpg" >
+<img  width = "300px" src = "https://i.redd.it/x8uo12u4wa351.jpg" >
 </p>
 
 <br>
