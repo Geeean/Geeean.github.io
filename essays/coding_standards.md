@@ -21,7 +21,11 @@ Readable code has got to be one of the most imporant standards, because if your 
     <li> Use indentation to make the begging and end of control structures. </li>
 </ol>
 <br>
+<p align = "center">
+<img  width = "600px" src = "https://i.redd.it/x8uo12u4wa351.jpg" >
+</p>
 
+<br>
 <h4> Standardize headers for different modules </h4>
 
 <br>
