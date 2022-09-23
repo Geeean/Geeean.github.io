@@ -14,7 +14,6 @@ Coding standards are like a set of rules, techniques, and practicies to creater 
 
 <h4> Focus on code readability </h4>
 Readable code has got to be one of the most imporant standards, because if your code isn't readable then no one is going to understand what your trying to do. Inorder to have readable code you must do some of the following:
-<br>
 <ol>
     <li> Write as few lines as possible. </li>
     <li> Use appropiate naming conventions. </li>
