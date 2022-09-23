@@ -15,13 +15,12 @@ Coding standards are like a set of rules, techniques, and practices to create cl
 
 <h4> Focus on code readability </h4>
 Readable code has got to be one of the most important standards, because if your code isn't readable then no one is going to understand what you’re trying to do. To have readable code you must do some of the following:
-<img src=""https://i.redd.it/x8uo12u4wa351.jpg" class="img-thumbnail" width="400px" style="float:right">
+<img src= "https://i.redd.it/x8uo12u4wa351.jpg" class="img-thumbnail" width="400px" style="float:right">
 <ol>
     <li> Write as few lines as possible. </li>
     <li> Use appropiate naming conventions. </li>
     <li> Use indentation to make the begging and end of control structures. </li>
 </ol>
-<br>
 
 <br>
 <h4> Standardize headers for different modules </h4>
