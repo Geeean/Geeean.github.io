@@ -49,7 +49,7 @@ Leaving comments and documenting your processes is very important especially in 
 
 <h3> Food for Thought </h3>
 When I started my journey as a programmer, like everyone I had poor coding standards. I would just name functions and variables with just any ole name and no comments within sight, just so long as I got the assigment completed and working properly. But over time as I worked in groups and as the professors and TA's gotten stricter I have noticed the way I write code is down right awful. Theres a reason why we have coding standards, its basically a way to make everyone life much easier, not just you but the people who you work with especially.
-
+<br>
 Looking through the list of universal coding standards, I can safely say that I do follow most of these coding standards. But I do miss some, especially the last one writing comments and documenting. This normally protains to coding assigments since they are usually solo work, when your working on a long assigment with less than ten minutes left on the deadline at this point you just want to turn in the work as soon as possible and enjoy the rest of your day. But there are no excuses! and I will work on breaking that habit.
 <br>
 
