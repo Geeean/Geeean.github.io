@@ -40,7 +40,6 @@ It makes it easier to understand and maintain code headers of different files, e
 </ol>
 
 <br>
-
 <h4> Don't use the same variable for multiple purposes </h4>
 Each variable should have a meaningful name and description indicating the reason why we are using it. Reusing the same variable for different purposes can often confuse the reader and overall makes improving or maintaining the program much more difficult
 <br>
