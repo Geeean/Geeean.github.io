@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Something something UI FRAMEWORKS"
+title: "U and I make a great website"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
 published: true
@@ -15,9 +15,7 @@ labels:
 
 <h2> What is UI Frameworks?</h2>
 
-<p> 
-UI stands for User Interface, a UI Framework is a tool for building software programs such to run on the internet,
-</p>
+UI stands for User-Interface, UI design is the process of building interfaces in software or computerized devices. These designs aimed to make interfaces user friendly. A Framework is a structure that lets you build software on, it serves as a foundation so your not starting from scratch. UI Frameworks is a software tool for building software program to run on the web. It allows developers build beautiful, responsive multi-device applications without deep techinical knowledge or skill. 
 
 
 <h2> Why use UI Frameworks such as bootstrap 5? </h2>
@@ -32,3 +30,8 @@ From my personal experience making websites with just raw HTML and CSS is actual
 <br>
 
 The picture on the left is a website made with bootstrap while the picture on the right shows a website made with just purely HTML and CSS. Both websites look good on their own rights, but the website made with just purely HTML and CSS probably had more time sunk into it. This is because they had make their own styling classes just for the spacing and organization. So theres a good chance their stylesheet is just cluttered with stuff like that. Looking at bootstrap website we can clearly see how clean the website looks. All the extra classes and files that come with bootstrap really makes a difference design wise.
+
+<h2> My Experience So Far</h2>
+
+At the moment I've worked with Bootstrap for about a week or so, I gotta say I've been really enjoying it. When we were just working with just purely CSS and HTML I really had a rough time especially during the practice WOD's specifically where we had to make a website about surfing. I had problems getting all the images all lined up in the center and getting the images evenly spaced was a nightmare.
+
