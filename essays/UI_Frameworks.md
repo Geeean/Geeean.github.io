@@ -25,9 +25,9 @@ UI stands for User Interface, a UI Framework is a tool for building software pro
 From my personal experience making websites with just raw HTML and CSS is actually a huge pain in the ass. Using a framework such as Bootstrap 5 gets the job done quick and cleaner. Bootstrap 5 adds so many classes that just formats the columns, rows, and containers in such a way where it does not clutter your stylesheet.css.
 <br>
 
-<div class="text-center p-4">
-  <img width="500px" src="https://images.template.net/wp-content/uploads/2016/04/19073948/Animal-Pet-Responsive-One-Page-HTML-Bootstrap-Theme.jpg" class="img-thumbnail">
-  <img width="500px" src="https://www.sourcecodester.com/sites/default/files/images/sarfarazbhat/123.jpg" class="img-thumbnail" class="img-thumbnail" >
+<div class="text-center">
+  <img width="500px" src="https://images.template.net/wp-content/uploads/2016/04/19073948/Animal-Pet-Responsive-One-Page-HTML-Bootstrap-Theme.jpg" class="img-thumbnail p-3">
+  <img width="500px" src="https://www.sourcecodester.com/sites/default/files/images/sarfarazbhat/123.jpg" class="img-thumbnail" class="img-thumbnail p-3" >
 </div>
 <br>
 
