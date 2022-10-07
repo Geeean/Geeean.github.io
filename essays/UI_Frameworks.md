@@ -17,6 +17,24 @@ labels:
 
 UI stands for User-Interface, UI design is the process of building interfaces in software or computerized devices. These designs aimed to make interfaces user friendly. A Framework is a structure that lets you build software on, it serves as a foundation so your not starting from scratch. UI Frameworks is a software tool for building software program to run on the web. It allows developers build beautiful, responsive multi-device applications without deep techinical knowledge or skill. 
 
+<h2> The Benefits of using UI Frameworks</h2>
+
+<ul>
+    <li> Makes the development process easier </li>
+    <li> Eases Debugging and Application Maintenance </li>
+    <li> Reduces Code Length </li>
+    <li> Improves Database Proficiency</li>
+    <li> Reinforces security </li>
+</ul>
+
+<h2> The Downside of using UI Frameworks</h2>
+
+<ul>
+    <li> Updates could introduce bugs </li>
+    <li> Many of the sites look the same </li>
+    <li> Lots of overriding styles </li>
+
+</ul>
 
 <h2> Why use UI Frameworks such as bootstrap 5? </h2>
         
