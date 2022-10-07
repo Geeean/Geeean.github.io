@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "U and I make a great website"
+title: "U and I make a GREAT Website"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
 published: true
