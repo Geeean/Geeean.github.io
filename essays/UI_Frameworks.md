@@ -36,7 +36,10 @@ UI stands for User-Interface, UI design is the process of building interfaces in
 
 </ul>
 
+<h2> Do Software Engineers benefit? </h2>
+
 Looking through this list of pros and cons of using an UI Framework, I can safely say that software engineers do indeed benefit from using it. Especially when you need the job done quick. Making the development processes easier is such a great thing since it cuts the amount of time it takes to get the job done. Regardless of using a UI Framework or not, there will always be problems such as bugs, but theres one key difference. Those who use UI Frameworks have a whole community who will face the same problems after every update, so that means theres always support to fix these bug fixes. While those who do not use UI Frameworks are basically on their own when it comes to fixing their problems.
+
 
 <h2> Why use UI Frameworks such as bootstrap 5? </h2>
         
