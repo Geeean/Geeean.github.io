@@ -15,7 +15,7 @@ labels:
 
 <h2> What is UI Frameworks?</h2>
 
-UI stands for User-Interface, UI design is the process of building interfaces in software or computerized devices. These designs aimed to make interfaces user friendly. A Framework is a structure that lets you build software on, it serves as a foundation so your not starting from scratch. UI Frameworks is a software tool for building software program to run on the web. It allows developers build beautiful, responsive multi-device applications without deep techinical knowledge or skill. 
+UI stands for User-Interface, UI design is the process of building interfaces in software or computerized devices. These designs aimed to make interfaces user friendly. A Framework is a structure that lets you build software on, it serves as a foundation so your not starting from scratch. UI Frameworks is a software tool for building software program to run on the web. It allows developers build beautiful, responsive multi-device applications without deep technical knowledge or skill. 
 
 <h2> The Benefits of using UI Frameworks</h2>
 
@@ -36,9 +36,11 @@ UI stands for User-Interface, UI design is the process of building interfaces in
 
 </ul>
 
+Looking through this list of pros and cons of using an UI Framework, I can safely say that software engineers do indeed benefit from using it. Especially when you need the job done quick. Making the development processes easier is such a great thing since it cuts the amount of time it takes to get the job done. Regardless of using a UI Framework or not, there will always be problems such as bugs, but theres one key difference. Those who use UI Frameworks have a whole community who will face the same problems after every update, so that means theres always support to fix these bug fixes. While those who do not use UI Frameworks are basically on their own when it comes to fixing their problems.
+
 <h2> Why use UI Frameworks such as bootstrap 5? </h2>
         
-From my personal experience making websites with just raw HTML and CSS is actually a huge pain in the ass. Using a framework such as Bootstrap 5 gets the job done quick and cleaner. Bootstrap 5 adds so many classes that just formats the columns, rows, and containers in such a way where it does not clutter your stylesheet.css.
+From my personal experience making websites with just raw HTML and CSS is actually a huge pain. Using a framework such as Bootstrap 5 gets the job done quick and cleaner. Bootstrap 5 adds so many classes that just formats the columns, rows, and containers in such a way where it does not clutter your stylesheet.css.
 <br>
 
 <div class="text-center">
