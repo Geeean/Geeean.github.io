@@ -9,12 +9,8 @@ labels:
   - design patterns
 --- 
 <h2> Great beginnings </h2>
-<div>
-<img src="https://media.tenor.com/OywDv9lFQaYAAAAC/start-bugs-bunny.gif" width="200" style="float:left; margin: 10px">
 Lets get right into the grove of things, in general a design pattern is a simple solution to a common problem in software design. It really isn't a finished product that can be completely translated into code, but instead think of it as a sort of template or skeleton to solve problems in different situations. 
-</div>
 
-<br>
 <h2> The GANG of Design Patterns </h2>
 In the term of software engineering, there are three different types of design patterns:
 
