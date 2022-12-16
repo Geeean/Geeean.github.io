@@ -17,7 +17,7 @@ Readable code has got to be one of the most important standards, because if your
 <img src= "https://i.redd.it/x8uo12u4wa351.jpg" class="img-thumbnail" width="400px" style="float:right">
 <ol>
     <li> Write as few lines as possible. </li>
-    <li> Use appropiate naming conventions. </li>
+    <li> Use appropriate naming conventions. </li>
     <li> Use indentation to make the begging and end of control structures. </li>
 </ol>
 
