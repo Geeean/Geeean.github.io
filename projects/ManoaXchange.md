@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ManoaXchange/manoaxchange.jpg
+image: img/ManoaXchange/manoaxchange.png
 title: "ManoaXchange"
 date: 2022
 published: true
