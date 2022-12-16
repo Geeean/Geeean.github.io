@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ManoaXchange/manoaxchange.png
+image: img/ManoaXchange/manoaxchange.JPEG
 title: "ManoaXchange"
 date: 2022
 published: true
@@ -23,11 +23,13 @@ Living on campus tends to be a short lived experience. Many students either move
 
 Shown below are some images of the final product can be seen below. Users were able to put items up for sell, rate other user profiles, message other users via an email system, search items, and report inappropriate items. Users could also create an account and become sellers. Admins could view a list of all reported items and remove the items from the website or remove the report if the item was falsely reported.
 
+<div class="center">
   <img width="700px" src="../img/ManoaXchange/shop1.png" class="img-thumbnail" >
   <img width="700px" src="../img/ManoaXchange/sellers-profile.png" class="img-thumbnail" >
   <img width="700px" src="../img/ManoaXchange/sell.png" class="img-thumbnail" >
   <img width="700px" src="../img/ManoaXchange/sellers.png" class="img-thumbnail" >
   <img width="700px" src="../img/ManoaXchange/item-page.png" class="img-thumbnail" >
+</div>
 
 In this project I worked on the Item Page, Sellers Page, Sellers Profile, I also worked with mongoDB to get user data linked to specific items and profiles. This project let me test my skills that were obtained in ICS 314, such as Meteor, Bootstrap, React, and JavaScript. I was also able to experience working in groups and utilizing Github issues and project boards which organized worked flow and emphasized version control.
 
