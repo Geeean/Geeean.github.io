@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Giancarlo Portillo",
+    "label": "Student",
+    "picture": "https://github.com/geeean.png",
+    "email": "gtp@hawaii.edu",
+    "phone": "808-670-5595",
+    "website": "https://geeean.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "location": { "address": "91-6621 Kapolei Parkway", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "geeean", "url": "http://github.com/geeean" },
+      { "network": "linkedin", "username": "geean", "url": "https://www.linkedin.com/in/giancarlo-portillo-a5082a1b4/" }
+    ]
+  },
+  "interests": [
+    { "name": "IoT" },
+    { "name": "Software Engineering" },
+    { "name": "Cyber Security" },
+    { "name": "Renewable Energy" },
+    { "name": "Web Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "JavaScript", "Bootstrap", "Django", "Heroku" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows", "Linux/Ubuntu", "VSCode", "Arduino", "RaspberryPi" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "Present"
+    }
+  ],
+  "work": [
+    {
+      "company": "West Yost",
+      "position": "Operations, Technology, Cyber Security, Resilience  ",
+      "website": "https://www.westyost.com/operational-technology-cybersecurity-and-resilience/",
+      "startDate": "2022-06-20",
+      "endDate": "Present",
+      "summary": "OTCR Intern",
+      "highlights": [
+        "Visited Wai’alae Iki Booster station pump 1-5 to conduct site visits, inspecting control systems, wiring and water pumps.",
+      	"Work on implementing alarm and message code on PLCs using RSLogix for the Oahu Board of Water Supply.",
+        "Underwent training to program PLC's using RSLogix 5000 and HMI using Ignition"
+        
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "organization": "Smart Campus Energy Lab",
+      "website": "https://wiki.scel-hawaii.org/doku.php?id=start",
+      "position": "Software Developer",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "Overall Goal": " Design and deploy an environmental sensor network across the Manoa campus to collect meteorological data and assist in photovoltaic power forecasting",
+      "Individual Responsibilties": [
+       " Implement new software features and debug existing source code for sensor modules using C/C++",
+        "Developed staging environment in Linux for sensor module testing",
+        "Use Unix command line tools to test sensor module interactions with lab gateway",
+        "Perform version control using Git and GitHub"
+      ]
+    },
+    {
+      "organization": "Microrobots",
+      "website": "https://manoa.hawaii.edu/uh-vip/project/micro-vip/",
+      "position": "Automated Control Systems Team",
+      "startDate": "2020-08",
+      "endDate": "2020-12",
+      "Overall Goal": " Analyze embryos from a clinical engineering viewpoint to determine the optimal characteristics for healthy implantation",
+      "Individual Responsibilties": [
+        "Integrate object detection code in Python to aid in tracking of microscale objects",
+        "Develop graphical user interface (GUI) to allow visualization of microrobot movement using Python" ]
+    }
+    ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
