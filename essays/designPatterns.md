@@ -4,7 +4,7 @@ type: essay
 title: "The Hitchhikers book to design patterns for humans"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-01
-published: true
+published: false
 labels:
   - design patterns
 --- 
